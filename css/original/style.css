@@ -14,7 +14,7 @@ ul, .h2, .h3, p {
   padding: 0;
 }
 
-.btn:focus {
+button:focus {
   outline: none;
   -webkit-box-shadow: none;
           box-shadow: none;
