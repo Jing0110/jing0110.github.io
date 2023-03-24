@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>header/defult</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header/defult" transform="translate(-1512.000000, -32.000000)">
+            <rect id="bg" x="0" y="0" width="1920" height="112"></rect>
+            <g id="icon/mail" transform="translate(1512.000000, 32.000000)">
+                <rect id="frame" x="0" y="0" width="48" height="48"></rect>
+                <path d="M8,36 L40,36 L40,12 L8,12 L8,36 Z M42,40 L6,40 C4.896,40 4,39.104 4,38 L4,10 C4,8.896 4.896,8 6,8 L42,8 C43.104,8 44,8.896 44,10 L44,38 C44,39.104 43.104,40 42,40 L42,40 Z" id="fill" fill="#909090"></path>
+                <path d="M24,28 C23.558,28 23.116,27.854 22.75,27.562 L12.75,19.562 C11.888,18.872 11.748,17.613 12.438,16.75 C13.129,15.888 14.387,15.747 15.25,16.438 L24,23.439 L32.75,16.438 C33.614,15.747 34.872,15.888 35.562,16.75 C36.252,17.613 36.112,18.872 35.25,19.562 L25.25,27.562 C24.884,27.854 24.442,28 24,28" id="fill" fill="#909090"></path>
+            </g>
+        </g>
+    </g>
+</svg>
