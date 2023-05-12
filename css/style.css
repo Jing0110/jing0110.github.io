@@ -41,9 +41,10 @@
 
 @media (max-width: 576px) {
   .bg {
-    top: -60px;
     width: 960px;
     height: 960px;
+    background-image: url("../images/img-bg-m.png");
+    top: -160px;
   }
 }
 header {
@@ -104,6 +105,11 @@ header .icon-link {
   line-height: 1.5;
   margin-bottom: 0;
   color: #909090;
+}
+.section-info .name-group .para img {
+  height: 24px;
+  width: auto;
+  margin-right: 8px;
 }
 .section-info .info-group {
   display: flex;
